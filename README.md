@@ -1,2 +1,2 @@
 # BestCourse
-This is a website that suggests the best suitable course out of all available courses based on user's chosen parameters like subject,suration,etc
+This is a website that suggests the most suitable course for the user out of all the available courses, based on user's input parameters like subject,time duration,etc
